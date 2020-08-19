@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+
 //Recebe a tech e a função de deletar enviada pelo TechList
 function TechItem(props) {
   return (
